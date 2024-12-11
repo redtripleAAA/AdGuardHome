@@ -27,10 +27,9 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/u-root/u-root v7.0.0+incompatible
 	go.etcd.io/bbolt v1.3.5
-	golang.org/x/crypto v0.0.0-20201217014255-9d1352758620
-	golang.org/x/net v0.0.0-20201216054612-986b41b23924
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9 // indirect
-	golang.org/x/sys v0.0.0-20201214210602-f9fddec55a1e
+	golang.org/x/crypto v0.31.0
+	golang.org/x/net v0.25.0
+	golang.org/x/sys v0.28.0
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.3.0
